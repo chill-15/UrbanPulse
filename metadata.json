@@ -1,0 +1,6 @@
+{
+  "name": "UrbanPulse",
+  "description": "Telangana Smart City Civic Telemetry, Grievance Redressal and Department Dispatch Platform (GHMC, TGSPDCL, HMWSSB).",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
